@@ -8,3 +8,9 @@ Este repositório tem como objetivo compartilhar um pouco dos meus estudos de l�
 3. [Programação Orientada a Objetos](https://github.com/alinealien/estudos-logica-com-python/wiki/3.-Programa%C3%A7%C3%A3o-Orientada-a-Objetos)
 
 Ah, também há diversos algoritmos de estudos com python na prática! Espero que o conteúdo ajude em sua jornada e estudos ;-)
+
+
+# Cursos legais
+
+- [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1)
+- [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2)
